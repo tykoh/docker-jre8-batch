@@ -8,4 +8,4 @@ Within the base batch directory (/data/batch), there should exist as shell scrip
 
 Individual batch job should be placed in different directory under /data/batch.
 
-Example : /data/batch/job1, /data/batc/job2, etc.
+Example : /data/batch/job1, /data/batch/job2, etc.
